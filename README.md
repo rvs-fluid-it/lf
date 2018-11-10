@@ -1,4 +1,4 @@
-Experiment to combine lf with [Wire (=dependency injection mechanism)](https://github.com/google/go-cloud/tree/master/wire)
+> Experiment to combine LF with Go Cloud's [Wire](https://github.com/google/go-cloud/tree/master/wire) (= compile-time dependency injection)
 
 # LF
 
