@@ -1,3 +1,5 @@
+Experiment to combine lf with [Wire (=dependency injection mechanism)](https://github.com/google/go-cloud/tree/master/wire)
+
 # LF
 
 [Google Groups](https://groups.google.com/forum/#!forum/lf-fm)
